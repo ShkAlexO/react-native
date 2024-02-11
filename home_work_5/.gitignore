@@ -2,6 +2,9 @@
 
 # dependencies
 node_modules/
+../home_work_2/
+../home_work_3/
+../home_work_4/
 
 # Expo
 .expo/
